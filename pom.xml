@@ -51,7 +51,7 @@
                     <generatePackage>calculator.wsdl</generatePackage>
                     <schemas>
                         <schema>
-                            <url>http://www.dneonline.com/calculator.asmx/wsdl</url>
+                            <url>http://www.dneonline.com/calculator.asmx?wsdl</url>
                         </schema>
                     </schemas>
                 </configuration>
